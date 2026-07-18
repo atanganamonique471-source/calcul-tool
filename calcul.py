@@ -1,2 +1,2 @@
-resultat = 10 + 5
+resultat = 100
 print("Résultat :", resultat)
